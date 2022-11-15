@@ -24,7 +24,7 @@ while i < 3:
   else:
     print("if you ready enter 'yes'",score_2)
   i+=1
-
+#check who won
 if (score_2 > score):
   print('The second player WON!',score_2)
 else:
